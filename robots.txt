@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niplcep.github.io/sitemap/sitemap.txt
